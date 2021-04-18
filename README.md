@@ -1,2 +1,2 @@
 # ML
-Practical
+Practical of Machine Learning.
